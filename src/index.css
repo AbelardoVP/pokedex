@@ -58,6 +58,11 @@
   list-style-type: none;
 }
 
+.pokemon-list ul:hover {
+  list-style-type: none;
+  background-color: rgb(215, 218, 221);
+}
+
 .pokemon-list ul a {
   text-decoration: none;
   color: black;
